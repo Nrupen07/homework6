@@ -17,7 +17,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Welcome to Homework 5</a>
+          <a class="nav-link active" aria-current="page" href="#">Welcome to Homework 6</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="index.php">Home</a>
@@ -28,11 +28,11 @@
           </a>
           <ul class="dropdown-menu">
             
-            <li><a class="dropdown-item" href="javascript.html"> Function 1</a></li>
-            <li><a class="dropdown-item" href="library2.html"> Function 2</a></li>
-            <li><a class="dropdown-item" href="javascript3.html"> Function 3</a></li>
-            <li><a class="dropdown-item" href="javascript4.html"> Function 4</a></li>
-            <li><a class="dropdown-item" href="javascript5.html"> Function 5</a></li>
+            <li><a class="dropdown-item" href="library.html"> Library 1</a></li>
+            <li><a class="dropdown-item" href="library2.html"> Library 2</a></li>
+            <li><a class="dropdown-item" href="library3.html"> Library 3</a></li>
+            <li><a class="dropdown-item" href="library4.html"> Library 4</a></li>
+            <li><a class="dropdown-item" href="library5.html"> Library 5</a></li>
           
             
           </ul>
